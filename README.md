@@ -1,18 +1,18 @@
-# Salut, ici Nitrous 👋
+<img width="2172" height="724" alt="Nitrous_Logo" src="https://github.com/user-attachments/assets/cf7b5aa2-0e1c-4a21-bb88-828c513a78f6" />
+
+<br>
+
+## À propos
 
 Développeur logiciel avec un parcours en **physique** et **informatique** à l’Université de Montréal.  
-Je travaille principalement avec **C#**, **.NET**, **Unity**, **Unreal Engine** et des systèmes de gameplay.
-
-Actuellement développeur logiciel à la **RAMQ**, avec de l’expérience en migration applicative, Azure DevOps, SQL et environnements .NET.
-
-En parallèle, je développe des jeux et prototypes sous **Nitrous Studio**, avec un focus sur les systèmes de gameplay, l’IA, le pathfinding, les frameworks de combat et les outils orientés développement de jeu.
+Actuellement à la **RAMQ**, je travaille sur des environnements .NET, SQL, Azure DevOps et de la migration applicative. En parallèle, je développe des jeux et prototypes sous **Nitrous Studio**, avec un focus sur Unity, Unreal Engine, les systèmes de gameplay, l’IA et l’architecture logicielle.
 
 ## 🔭 Actuellement
 
-- Développeur logiciel à la RAMQ
+- Développeur logiciel à la **RAMQ**
+- Développement de jeux et prototypes sous **Nitrous Studio**
 - Ouvert aux opportunités en développement logiciel
 - Ouvert aux game jams et collaborations indie
-- Focus sur Unity, Unreal Engine, architecture gameplay 
 
 ## 💻 Tech Stack
 
