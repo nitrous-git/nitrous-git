@@ -1,16 +1,24 @@
-## Hi there 👋
+# Salut, ici Nitrous 👋
 
-<!--
-**nitrous-git/nitrous-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur avec un background en informatique et en physique.  
+Je travaille surtout avec **C#**, **Unity**, **Unreal Engine**, **.NET** et des systèmes de gameplay.
 
-Here are some ideas to get you started:
+En ce moment, je développe des prototypes de jeux, des frameworks de combat, de l'IA, du pathfinding et des systèmes modulaires pour Unity/Unreal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Actuellement
+
+- Recherche d'un poste de développeur
+- Ouvert aux game jams / collaborations indie
+- Focus sur Unity, Unreal Engine et architecture gameplay
+
+## 💻 Tech
+
+**Langages :** C#, C++, Java, Python, JavaScript, SQL  
+**Game Dev :** Unity, Unreal Engine, Blueprint, gameplay systems, AI, pathfinding  
+**Dev :** .NET, Azure DevOps, Git, GitHub, SQL, Oracle, Teradata  
+
+## 🌐 Links
+
+- YouTube:  https://www.youtube.com/@_Nitrous_
+- Itch.io:  https://nitrous-studio.itch.io/
+- Email:    nitrocap514@gmail.com
