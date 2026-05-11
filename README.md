@@ -22,9 +22,9 @@ En parallèle, je développe des jeux et prototypes sous **Nitrous Studio**, ave
 
 ## 🛠️ Compétences
 
-**Langages :** C#, C++, Java, Python, JavaScript, SQL  
-**Game Dev :** Unity, Unreal Engine, Animation, gameplay systems, AI, pathfinding  
-**Software :** .NET, Azure DevOps, Git, GitHub, SQL, Oracle, Teradata 
+**Langages :** C#, C++, Java, Python, JavaScript, SQL  <br>
+**Game Dev :** Unity, Unreal Engine, Animation, gameplay systems, AI, pathfinding  <br>
+**Software :** .NET, Azure DevOps, Git, GitHub, SQL, Oracle, Teradata <br>
 **Autres intérêts techniques :** OpenGL, Vulkan, infographie, simulation numérique, physique quantique
 
 ## 🌐 Socials
